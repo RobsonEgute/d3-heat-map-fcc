@@ -1,0 +1,15 @@
+* {
+    text-align: center;
+}
+#tooltip {
+    visibility: 'hidden';
+    width: auto;
+    height: auto;
+}
+.legendSvg {
+    width: auto;
+    height: auto;
+}
+.cell:hover {
+    border: 2px solid white
+}
